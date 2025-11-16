@@ -1,10 +1,10 @@
 Virtual Box Ubuntu22.04
+
 ROS2 humble
+
 Gazebo 6
 
 Python
-
-
 
 Pytorch
 
@@ -43,6 +43,8 @@ Python: 3.10.12 (/usr/bin/python3.10)
 PyTorch: 2.9.1+cpu (/home/ljh/pytorch_project/pytorch_env/lib/python3.10/site-packages/torch)
 
 === 检测完成 ===
+
+#使用方式：
 
 # 每次使用前激活虚拟环境
 source ~/pytorch_project/pytorch_env/bin/activate
