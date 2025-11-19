@@ -1,8 +1,5 @@
 Virtual Box Ubuntu22.04
 
-ROS2 humble
-
-Gazebo 6
 
 Python
 
