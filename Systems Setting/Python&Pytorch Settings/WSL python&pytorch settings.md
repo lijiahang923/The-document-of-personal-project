@@ -1,7 +1,6 @@
 WSL Ubuntu24.04
-ROS2 jazzy
 
-gazebo harmonic
+
 
 python
 Python 3.12.3
