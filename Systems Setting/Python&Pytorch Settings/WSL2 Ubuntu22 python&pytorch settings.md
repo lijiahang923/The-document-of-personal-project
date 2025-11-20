@@ -1,4 +1,4 @@
-WSL Ubuntu24.04
+WSL2 Ubuntu24.04
 
 
 
