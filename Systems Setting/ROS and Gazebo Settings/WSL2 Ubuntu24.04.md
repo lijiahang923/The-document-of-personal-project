@@ -1,4 +1,2 @@
-ROS2
-jazzy
-Gazebo
-harmonic
+ROS2 jazzy
+Gazebo harmonic（sim 11）
