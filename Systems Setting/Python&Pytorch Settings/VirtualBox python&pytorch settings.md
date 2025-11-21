@@ -1,7 +1,7 @@
 Virtual Box Ubuntu22.04
 
 
-Python
+Python 3.10
 
 Pytorch
 
