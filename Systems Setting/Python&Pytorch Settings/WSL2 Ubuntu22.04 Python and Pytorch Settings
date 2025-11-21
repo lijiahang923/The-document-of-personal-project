@@ -1,0 +1,7 @@
+WSL2 Ubuntu22.04
+Python 3.10
+Pytorch gpu130
+
+虚拟环境 projects/drl-ros2-navigation/drl_ros2_venv
+Python 3.10
+Pytorch gpu130
