@@ -1,4 +1,2 @@
-ROS
-humble
-Gazebo
-fortress（11.10.02）
+ROS humble
+Gazebo classic 11
