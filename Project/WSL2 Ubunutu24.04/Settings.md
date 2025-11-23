@@ -2,7 +2,7 @@ python 3.12 default
 
 pytorch gpu130
 
-anaconda installed
+miniconda installed
 
 ROS2 Jazzy（setted terminal start same time）
 echo "source /opt/ros/jazzy/setup.bash" >> ~/.bashrc
